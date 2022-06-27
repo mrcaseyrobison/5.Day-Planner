@@ -1,3 +1,5 @@
 # 5. Day-Planner Challange
 
-A Day Planner Built With 3rd Party API
++ Initial HTML & CSS code was already set.
++ Minor styling tweaks in CSS (Background color, fonts, thicker inner borders in the planner)
++ 
