@@ -12,6 +12,7 @@ function currentTime() {
     var time = $(".time-block");
     time.each(function() {
         var hour = parseInt($(this).attr("id"))
+        // JQuery callback to let initialize highlights
         if (hour === currentHour) {
             $(this).children(".col-sm-10").attr("class", "present col-sm-10 description")
         } else if (currentHour > hour) {
