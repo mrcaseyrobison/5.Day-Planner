@@ -10,4 +10,4 @@ Deployed page link: https://mrcaseyrobison.github.io/5.Day-Planner/
 - I used Moment JS to display the current date at the top of the page.
 - Local storage works!
 
-<img src = "./images/demo.gif">
+<img src = "demo.gif">
